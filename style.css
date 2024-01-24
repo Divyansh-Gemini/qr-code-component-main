@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -28,11 +30,13 @@ body {
 .card h1 {
     color: hsl(218, 44%, 22%);
     font-size: 1.2em;
+    font-weight: 700;
     padding: 20px 10px;
 }
 
 .card p {
     color: hsl(220, 15%, 55%);
     font-size: .9rem;
+    font-weight: 400;
     padding: 0px 5px;
 }
