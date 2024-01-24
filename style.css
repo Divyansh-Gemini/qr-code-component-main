@@ -18,6 +18,7 @@ body {
     position: relative;
     top: 9.5rem;
     text-align: center;
+    box-shadow: 10px 50px 100px #b5bec8;
 }
 
 .qr-img {
